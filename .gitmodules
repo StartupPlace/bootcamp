@@ -1,6 +1,3 @@
 [submodule "apps/pet-news"]
 	path = apps/pet-news
 	url = https://github.com/geoom/pets-news
-[submodule "slides/python-django-for-war"]
-	path = slides/python-django-for-war
-	url = https://github.com/geoom/slides.git
