@@ -1,3 +1,6 @@
 [submodule "apps/pet-news"]
 	path = apps/pet-news
 	url = https://github.com/geoom/pets-news
+[submodule "apps/batalla-pokemon"]
+	path = apps/batalla-pokemon
+	url = https://github.com/StartupPlace/PokemonCrater.git
