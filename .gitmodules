@@ -4,3 +4,6 @@
 [submodule "apps/batalla-pokemon"]
 	path = apps/batalla-pokemon
 	url = https://github.com/StartupPlace/PokemonCrater.git
+[submodule "apps/pokemon-crater"]
+	path = apps/pokemon-crater
+	url = https://github.com/jnolascob/PokemonCrater.git
